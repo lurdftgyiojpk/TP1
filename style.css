@@ -1,0 +1,86 @@
+ul{
+  list-style: none;
+}
+.lin{
+  display: flex;
+  justify-content: space-around;
+}
+.der{
+  display: flex;
+  padding-top: 15px;
+  padding-right: 40px;
+}
+a{
+  text-decoration: unset;
+}
+strong.clas{
+  color: rgb(83, 79, 79);
+  font-size: 1.5em;
+}
+.mont{
+  background-image: url(https://dummyimage.com/1200x400/c2bfeb/e1e2f2&text=mont);
+  width: 82%;
+  height: 400px;
+  margin-left: 09%;
+}
+.agne{
+  position: relative;
+  top: 10%;
+  left: 10%;
+  font-size: 1.5em;
+  color: rgb(253, 247, 247);
+  font-family: sans-serif;
+  font-weight: 100;
+}
+h2{
+  font-size: 1.5em;
+  font-family: sans-serif;
+  font-weight: 100;
+  padding-left: 09%;
+  color:rgb(83, 80, 80)
+}
+em{
+  color: rgb(151, 148, 148);
+}
+.op{
+  display: flex;
+  padding-top: 2%;
+}
+.ba{
+  padding-left: 20%;
+  padding-top: 1.5%;
+}
+.ali{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: rgb(209, 209, 209);
+  padding: 40px;
+}
+.av{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 12%;
+  padding-bottom: 3%;
+}
+.cont{
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  gap:10px;
+  padding-top: 5%;
+  position: relative;
+  right: 21%;
+}
+.hd{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: rgb(131, 128, 128);
+  padding: 3%;
+}
+.s{
+  text-decoration: underline;
+}
